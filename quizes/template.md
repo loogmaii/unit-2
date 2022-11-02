@@ -10,5 +10,9 @@ B:
 
 ```
 
-## b
+## Evidence
+
+## Truth table
+
+## Circuit
 
