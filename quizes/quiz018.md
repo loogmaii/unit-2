@@ -2,11 +2,10 @@
 
 create a function to help lily
 
-## code
-
-mine: 
+## Code 
 
 ```py
+#mine
 def numberMatches(l,s):
     output = ''
     m = s // 20
@@ -15,12 +14,8 @@ def numberMatches(l,s):
     return output
 
 test1 = numberMatches(100,100)
-print(test1)
-```
 
-Dr Ruben's:
-
-```py 
+#Dr Ruben's 
 def numberMatches(l,s):
     lily_position = 0
     speed_m_per_s = s/100
