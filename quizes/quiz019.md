@@ -38,5 +38,7 @@ def get_l3tt3r(msg:str):
 <sub>Fig.1 shows results of the program
 
 ## boolean circuit
-
+    
+![IMG_6A700C383A0C-1](https://user-images.githubusercontent.com/111941936/200246887-515bc327-5bd6-45b3-80b8-e1060d215802.jpeg)
+   
 <sub>Fig.2 shows the boolean circuit for part B
