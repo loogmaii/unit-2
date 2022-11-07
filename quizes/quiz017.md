@@ -23,3 +23,5 @@ def averagelength(words):
 ## Evidence
 
 <img width="486" alt="Screen Shot 2565-11-07 at 09 55 47" src="https://user-images.githubusercontent.com/111941936/200205974-fbbda42f-5267-42e9-ad0d-b2571bb539a1.png">
+
+<sub>Fig.1 shows results of the program
