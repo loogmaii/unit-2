@@ -23,6 +23,8 @@ print(sample)
 
 ## Evidence
 
+<img width="778" alt="Screen Shot 2565-11-08 at 13 45 38" src="https://user-images.githubusercontent.com/111941936/200477272-0c04f26e-0efc-4b25-b729-b75969810858.png">
+
 <sub>Fig.1 shows results of the program
 
 ## Truth table
