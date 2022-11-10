@@ -1,8 +1,8 @@
 # Quiz 22
 
-A:
+A: Create a program that produces n random values from the equation below, where m and s are the other inputs of the function
 
-B:
+B: Proof that : A (A + B) = A 
 
 ## Code
 
