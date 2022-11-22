@@ -26,9 +26,13 @@ print(table)
 <sub>Fig.1 shows results of the program
 
 ## Truth table
+   
+![IMG_263385BC8163-1](https://user-images.githubusercontent.com/111941936/203371328-3bf6097a-b3dd-4aeb-b5e4-45541c82b44c.jpeg)
   
 <sub>Fig.2 shows the truth table
 
 ## Circuit
-
+    
+![IMG_D5D960647AB8-1](https://user-images.githubusercontent.com/111941936/203371483-2a1ff2a3-d5a7-45a9-ae23-1bc7c916ed40.jpeg)    
+    
 <sub>Fig.3 shows the boolean circuit for part B
