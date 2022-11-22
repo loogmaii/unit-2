@@ -4,7 +4,7 @@ A: Create a function that produces the table of Truth for 3 inputs
 
 B: Truth table and circuit for: Light = S1S2+(S2+S3(notS1))S1 
 
-## code
+## Code
 
 ```py
 def get_truth():
@@ -19,10 +19,16 @@ table = get_truth()
 print(table)
 ```
 
-## evidence
+## Evidence
 
 <img width="362" alt="Screen Shot 2565-11-03 at 08 23 45" src="https://user-images.githubusercontent.com/111941936/199620717-db3072b0-f0ea-4621-9f6a-035b0eddc1cd.png">
 
+<sub>Fig.1 shows results of the program
+
 ## Truth table
+  
+<sub>Fig.2 shows the truth table
 
 ## Circuit
+
+<sub>Fig.3 shows the boolean circuit for part B
