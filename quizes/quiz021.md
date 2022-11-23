@@ -6,7 +6,7 @@ AB+(not B)+(notB C)
 
 B: X = ZW ⨁ (Z ⨁ Y(not W)) 
 
-## code
+## Code
 
 ```py
 def get_truth():
@@ -29,6 +29,13 @@ print(table)
 
 <img width="599" alt="Screen Shot 2565-11-11 at 03 07 55" src="https://user-images.githubusercontent.com/111941936/201173205-796eaa20-e9aa-4c19-88ee-5e4dd6144d9d.png">
 
+<sub>Fig.1 shows results of the program
+
 ## Truth table
+  
+<sub>Fig.2 shows the truth table
 
 ## Circuit
+
+<sub>Fig.3 shows the boolean circuit for part B
+
