@@ -32,10 +32,14 @@ print(table)
 <sub>Fig.1 shows results of the program
 
 ## Truth table
+    
+![IMG_C999407013CD-1](https://user-images.githubusercontent.com/111941936/203800100-635c9331-cfc6-4bff-aba6-e57b5ac83740.jpeg)
   
 <sub>Fig.2 shows the truth table
 
 ## Circuit
 
+![IMG_59C6CA3DE935-1](https://user-images.githubusercontent.com/111941936/203800281-dff3621f-733d-4832-8a4d-0d28e25f74a2.jpeg)
+  
 <sub>Fig.3 shows the boolean circuit for part B
 
