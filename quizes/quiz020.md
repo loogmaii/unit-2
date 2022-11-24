@@ -32,7 +32,7 @@ print(table)
 <sub>Fig.2 shows the truth table
 
 ## Circuit
-    
-![IMG_31CA677C0A85-1](https://user-images.githubusercontent.com/111941936/203807515-ba021f01-21d5-4ac1-9c4c-bfb5a653afb2.jpeg)
+  
+![IMG_1A9917C700B3-1](https://user-images.githubusercontent.com/111941936/203816982-dfbfc434-bfc2-4d94-9939-a3b03290a041.jpeg)
     
 <sub>Fig.3 shows the boolean circuit for part B
