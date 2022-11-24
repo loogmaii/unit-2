@@ -41,4 +41,6 @@ plt.show()
 
 ## Circuit
 
+![IMG_5589DBA19805-1](https://user-images.githubusercontent.com/111941936/203817589-a58aa404-10af-4006-87c4-a5f55dc89927.jpeg)
+    
 <sub>Fig.2 shows the boolean circuit for part B
