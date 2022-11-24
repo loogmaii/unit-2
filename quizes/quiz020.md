@@ -33,6 +33,6 @@ print(table)
 
 ## Circuit
     
-![IMG_D5D960647AB8-1](https://user-images.githubusercontent.com/111941936/203371483-2a1ff2a3-d5a7-45a9-ae23-1bc7c916ed40.jpeg)    
+![IMG_31CA677C0A85-1](https://user-images.githubusercontent.com/111941936/203807515-ba021f01-21d5-4ac1-9c4c-bfb5a653afb2.jpeg)
     
 <sub>Fig.3 shows the boolean circuit for part B
