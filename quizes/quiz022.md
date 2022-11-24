@@ -28,9 +28,10 @@ print(sample)
 <sub>Fig.1 shows results of the program
 
 ## Truth table
-  
-<sub>Fig.2 shows the truth table
+    
+![IMG_457A8D8DDFB1-1](https://user-images.githubusercontent.com/111941936/203801694-3c447850-b32a-4b92-bdd3-413337b8cf1d.jpeg)
+ 
+<sub>Fig.2 shows the truth table that proves A (A + B) = A
 
-## Circuit
 
-<sub>Fig.3 shows the boolean circuit for part B
+    
