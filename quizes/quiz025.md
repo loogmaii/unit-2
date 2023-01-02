@@ -31,7 +31,8 @@ plt.show()
 
 ## Evidence
 
-![image](https://user-images.githubusercontent.com/111941936/210243270-d50fb09f-7a50-4bec-8302-b2c5f9322054.png)
+<img width="529" alt="Screen Shot 2566-01-02 at 21 20 10" src="https://user-images.githubusercontent.com/111941936/210243657-e5faa94f-e07a-4caa-a07b-3be08d5132db.png">
+
 
 <sub>Fig.1 shows graph of the program
 
