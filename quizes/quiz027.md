@@ -65,5 +65,7 @@ plt.show()
 <sub>Fig.2 shows graph of the program
 
 ## Part B
-  
+    
+![D46D30F8-3BEA-4EC5-A28D-8B9ECDB76C2B](https://user-images.githubusercontent.com/111941936/211258279-7a8f4fea-f593-4cd4-be51-7ebe47c57506.jpg)  
+    
 <sub>Fig.3 shows results of part B
