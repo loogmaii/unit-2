@@ -41,3 +41,7 @@ plt.show()
 <sub>Fig.2 shows results of the program
 
 ## Part B
+
+![DC4AAD1C-DB7F-4E50-884D-A7D799D4A360](https://user-images.githubusercontent.com/111941936/211253540-9d56298f-b4fa-464d-bdad-b6c869eb62b4.jpg)
+
+<sub>Fig.5 shows results of part B
