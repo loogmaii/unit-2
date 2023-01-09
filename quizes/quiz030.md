@@ -39,3 +39,8 @@ plt.show()
 
 ## Part B
   
+The internet was first created in January 1st, 1983[^1]
+         
+[^1]:“A Brief History of the Internet.” Usg.edu, 2023, www.usg.edu/galileo/skills/unit07/internet07_02.phtml#:~:text=January%201%2C%201983%20is%20considered,Protocol%20(TCP%2FIP).
+
+‌
