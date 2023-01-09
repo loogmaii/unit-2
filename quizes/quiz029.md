@@ -39,4 +39,6 @@ print(case2)
 
 ## Part B
   
-<sub>Fig.2 shows the results of part B
+64 colors can be represented in a 6 bit computer[^1]
+    
+[^1]:“Concept of Bits per Pixel.” Tutorialspoint.com, 2023, www.tutorialspoint.com/dip/concept_of_bits_per_pixel.htm. 
